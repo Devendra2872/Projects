@@ -1,7 +1,6 @@
-package org.example;
+package org.example.printThreds;
 
 public class printNumberTask implements Runnable{
-
     private Integer noToPrint;
 
     printNumberTask(Integer x){

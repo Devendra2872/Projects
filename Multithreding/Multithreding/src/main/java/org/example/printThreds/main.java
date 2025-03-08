@@ -1,6 +1,6 @@
-package org.example;
+package org.example.printThreds;
 
-public class Main {
+public class main {
     public static void main(String[] args) {
         System.out.println("Hello, World! "+ Thread.currentThread().getName());
         for (int i=0; i<100; i++){

@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="multithreding" />
+        <module name="untitled1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Multithreding" target="21" />
+      <module name="multithreding" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
